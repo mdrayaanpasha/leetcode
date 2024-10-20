@@ -30,4 +30,4 @@ Some of these solutions were written late at night after too much coffee and not
 
 ---
 
-**Disclaimer**: This repo won’t guarantee a job at FAANG, but it will give you something to talk about at tech meetups. Enjoy! 😁
+**Disclaimer**: This repo won’t guarantee a job at FAANG/MAANG, but it will give you something to talk about at tech meetups. Enjoy! 😁
