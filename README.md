@@ -10,7 +10,6 @@ Because apparently, instead of chilling on weekends or having a life, solving al
 
 - **Folders for each topic**: Arrays, Strings, Linked List (yes, I cried too), Graphs – all the usual suspects that make you rethink your love for coding.
 - **Code files**: Each file represents a problem I've conquered (_or barely survived_), with my brilliant and sometimes unnecessarily complicated solutions. Expect the occasional "WTF is this code?" moment.
-- **Comments**: Sprinkled with helpful tips and sarcastic remarks about why a certain problem made me reconsider my career path.
 
 ## How To Use This
 
@@ -18,16 +17,16 @@ Because apparently, instead of chilling on weekends or having a life, solving al
    ```bash
    git clone https://github.com/mdrayaanpasha/leetcode.git
    ```
-2. **Browse the problems**: Just casually skim through hundreds of problems like a genius, then realize half of them involve edge cases you didn't think of.
+2. **Browse the problems**: Just casually skim through problems like a genius, then realize half of them involve edge cases you didn't think of.
 3. **Run the code**: To either bask in the glory of your own brilliance or question why half your test cases fail.
    ```bash
-   # Run with your language of choice
-   python problem.py  # or whatever
+   # Run with Python.
+   python name_of_file.py  # or whatever
    ```
 
 ## Warning
 
-Some of these solutions were written late at night after too much coffee and not enough patience. Side effects of reading this code include mild confusion, sarcastic thoughts, and occasional "Aha!" moments.
+Some of these solutions were written late at night after too much coffee and not enough patience. Side effects of reading this code include mild confusion and occasional "Aha!" moments.
 
 ---
 
