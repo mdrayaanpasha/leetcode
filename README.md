@@ -16,7 +16,7 @@ Because apparently, instead of chilling on weekends or having a life, solving al
 
 1. **Clone it**: Like you haven't cloned hundreds of repos before.
    ```bash
-   git clone https://github.com/yourusername/leetcode-problems.git
+   git clone https://github.com/mdrayaanpasha/leetcode.git
    ```
 2. **Browse the problems**: Just casually skim through hundreds of problems like a genius, then realize half of them involve edge cases you didn't think of.
 3. **Run the code**: To either bask in the glory of your own brilliance or question why half your test cases fail.
