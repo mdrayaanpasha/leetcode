@@ -41,5 +41,4 @@ class Solution(object):
             else:
                 chars.pop()
         
-        return len(Words
- )
+        return len(Words)
