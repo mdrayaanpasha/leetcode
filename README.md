@@ -8,7 +8,7 @@ Because apparently, instead of chilling on weekends or having a life, solving al
 
 ## What’s Inside
 
-- **Folders for each topic**: Arrays, Strings, Linked List (yes, I cried too), Graphs – all the usual suspects that make you rethink your love for coding.
+- **Folders for each topic**: Arrays, Strings, DP (yes, I cried too), Graphs – all the usual suspects that make you rethink your love for coding.
 - **Code files**: Each file represents a problem I've conquered (_or barely survived_), with my brilliant and sometimes unnecessarily complicated solutions. Expect the occasional "WTF is this code?" moment.
 
 ## How To Use This
